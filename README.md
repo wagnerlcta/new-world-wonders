@@ -39,7 +39,7 @@ TO-DO
     - Update README.
 
 ## Task List
-- [x] Create firt version of README
+- [x] Create first version of README
 - [ ] Create basic folder sturcture
 - [ ] Create Project Charter
 - [ ] Create Viability Study

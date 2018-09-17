@@ -17,7 +17,7 @@ Currently I am a Project Management MBA student at FGV in Brazil, this project w
 * [Task List](#task-list)
 
 ## Project Charter
-TO-DO
+The Project Charter is the document that officially starts the project. The project sponsor (an executive who has authority to allocate financial and human resources to the project) is responsible for creating this document. An overview of the project objetives, requirements, milestones, budgets, premisses and constraints will be shown here.
 ## Economic and Financial Viability
 TO-DO
 ## Stakeholders Management
@@ -36,11 +36,15 @@ TO-DO
 TO-DO
 ## Changelog
 - **0.0.1**
-    - Update README.
+    - Updated README.
+- **0.0.2**
+    - Added Project Charter Model;
+    - Updated README;
+    - Created basic folder structure.
 
 ## Task List
 - [x] Create first version of README
-- [ ] Create basic folder sturcture
+- [x] Create basic folder sturcture
 - [ ] Create Project Charter
 - [ ] Create Viability Study
 - [ ] Plan Stakeholder Management
